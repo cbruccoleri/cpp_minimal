@@ -1,0 +1,6 @@
+# Ignore these files and directories.
+build/**
+
+# Better to not include your IDE files in the source control, in most cases.
+# There could be exceptions. This is for Visual Studio Code editor.
+# .vscode/
