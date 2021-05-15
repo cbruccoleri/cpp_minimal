@@ -7,7 +7,7 @@ offer a few more desirable features. It is a tried and true recipe that works
 well for small programs, such as small demos, learning tutorials, and class
 projects.
 
-## What is it
+## What is it?
 
 This template provides a minimal project in C++ that is ready to build and
 integrate with a basic development toolset. I found myself recreating these
